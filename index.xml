@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anfernee Site</title>
-    <link>http://anfernee11.github.io/</link>
-    <description>Recent content on Anfernee Site</description>
+    <title>Anfernee Blog</title>
+    <link>http://anfernee11.github.io/anDoc/</link>
+    <description>Recent content on Anfernee Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2015 15:18:09 +0800</lastBuildDate>
-    <atom:link href="http://anfernee11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-CN</language>
+    <lastBuildDate>Wed, 16 Dec 2015 15:18:10 +0800</lastBuildDate>
+    <atom:link href="http://anfernee11.github.io/anDoc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>1</title>
-      <link>http://anfernee11.github.io/post/2015/12/16/1/</link>
+      <title>second</title>
+      <link>http://anfernee11.github.io/anDoc/post/2015/12/16/2/</link>
+      <pubDate>Wed, 16 Dec 2015 15:18:10 +0800</pubDate>
+      
+      <guid>http://anfernee11.github.io/anDoc/post/2015/12/16/2/</guid>
+      <description>
+
+&lt;h1 id=&#34;this-is-the-second-test-page-using-hugo:f5776ce002083f17f7a8f8f37568a092&#34;&gt;This is the second test page using hugo.&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anfernee11.github.io/anDoc/&#34;&gt;mysite&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://anfernee11.github.io/anDoc/post/2015/12/16/1/</link>
       <pubDate>Wed, 16 Dec 2015 15:18:09 +0800</pubDate>
       
-      <guid>http://anfernee11.github.io/post/2015/12/16/1/</guid>
+      <guid>http://anfernee11.github.io/anDoc/post/2015/12/16/1/</guid>
       <description>
 
 &lt;h1 id=&#34;this-is-the-first-test-page-using-hugo:10d8aa81d13021669fdcd5a46901e0c0&#34;&gt;This is the first test page using hugo.&lt;/h1&gt;
